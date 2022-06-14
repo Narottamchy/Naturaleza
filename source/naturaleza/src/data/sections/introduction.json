@@ -1,0 +1,24 @@
+{
+  "four": [
+    {
+      "title": "Eat Healthier",
+      "description": "Have health as the priority because a healthy outside starts from the Inside",
+      "iconSrc": "/assets/images/sections/introduction/four/1.webp"
+    },
+    {
+      "title": "Informative support",
+      "description": "We don't have brands but we have information that you need to know about the product",
+      "iconSrc": "/assets/images/sections/introduction/four/2.webp"
+    },
+    {
+      "title": "Regular updates",
+      "description": "You will get regular updates about the products and about your health",
+      "iconSrc": "/assets/images/sections/introduction/four/3.webp"
+    },
+    {
+      "title": "Fully Tested Products",
+      "description": "All products are recommended by specialists and are with less probability of having side effects",
+      "iconSrc": "/assets/images/sections/introduction/four/4.webp"
+    }
+  ]
+}

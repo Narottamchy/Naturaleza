@@ -1,0 +1,18 @@
+{
+  "three": [
+    {
+      "background": "/assets/images/sections/banner/three/bg-1.webp",
+      "image": "/assets/images/sections/banner/three/1.webp",
+      "title": { "main": "Grains Make up the majority of calories consumed worldwide"},
+      "btn": "Products",
+      "link":"/product/products"
+    },
+    {
+      "background": "/assets/images/sections/banner/three/bg-2.webp",
+      "image": "/assets/images/sections/banner/three/2.webp",
+      "title": { "main": "More than 80% people don't know why they are using organic products"},
+      "btn": "Blogs",
+      "link":"/blog/blogs"
+    }
+  ]
+}

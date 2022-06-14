@@ -1,0 +1,34 @@
+{
+  "HOME": {
+    "title": "Home",
+    "href": "/"
+  },
+  "SHOP": {
+    "title": "Products",
+    "href": "/product/products",
+    "subMenu":{
+      "details": [
+        { "title": "Wishlist", "href": "/shop/wishlist" },
+        { "title": "Compare", "href": "/shop/compare" },
+        { "title": "Cart", "href": "/shop/cart" }
+      ]
+    }
+  },
+  "BLOG": {
+    "title": "Blogs",
+    "href": "/blog/blogs"
+  },
+  "PAGES": {
+    "title": "Pages",
+    "href": "#",
+    "subMenu": [
+      { "title": "FAQ", "href": "/other/faq" },
+      { "title": "Coming Soon", "href": "/other/coming-soon" },
+      { "title": "Contact Us", "href": "/other/contact-us" }
+    ]
+  },
+  "ABOUT": {
+    "title": "About us",
+    "href": "/other/about-us"
+  }
+}

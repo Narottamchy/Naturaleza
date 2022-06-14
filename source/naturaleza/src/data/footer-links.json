@@ -1,0 +1,25 @@
+[
+  {
+    "title": "EXPLORE",
+    "items": [
+      { "title": "Home", "href": "/" },
+      { "title": "Products", "href": "/product/products" },
+      { "title": "Blogs", "href": "/blog/blogs" }
+    ]
+  },
+  {
+    "title": "GENERAL",
+    "items": [
+      { "title": "About Us", "href": "/other/about-us" },
+      
+      { "title": "Contact Us", "href": "/other/contact-us" }
+    ]
+  },
+  {
+    "title": "OTHER",
+    "items": [
+      { "title": "Coming Soon", "href": "/other/coming-soon" },
+      { "title": "FAQ", "href": "/other/faq" }
+    ]
+  }
+]

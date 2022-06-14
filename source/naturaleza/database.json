@@ -1,0 +1,485 @@
+{
+  "product": [
+    {
+      "id": "1",
+      "name": "Chia seeds",
+      "category": "Seeds",
+      "tag": [
+        "Organic","Healthy"
+      ],
+      "shortDescription": "Chia seeds oils are tiny black or white seeds from the plant Salvia his panica L.",
+      "fullDescription": "Chia seeds are tiny black or white seeds from the plant Salvia his panica L. They're believed to be native to Central America. Historically, Aztec and Mayan civilizations used the seeds in their diets, as well as for medicinal purposes, religious rituals, and cosmetics.",
+      "why":"Why consume Chia seeds?",
+      "topic1":"Highly Nutritious",
+      "explain1":"It contains many nutrients like calcium, Magnesium, Manganese, Selenium, Copper, Iron and Phosphorus.",
+      "topic2":"High in Fiber",
+      "explain2":"One ounce of Chia seeds provides a whopping 9.8 grams of fiber, going a long way toward the recommended 25 to 38 grams per day for adults age 50 or younger or 21 to 30 grams per day for adults over age 50.",
+      "topic3":"Heart healthy Omega-3s",
+      "explain3":"lowers the risk of cardiovascular problems.",
+      "topic4":"Rich in Antioxidants",
+      "explain4":"Helps in keeping your skin healthy, have anticancer, anti-inflammatory properties, reduces blood sugar levels, good for your overall health.",
+      "precaution1":"Should be consumed in a recommended amount only to maintain the balance of your body.",
+      "precaution2":"May interact with certain medications.",
+      "rate": 4,
+      "price": 9.99,
+      "coverImage": "/assets/images/products/seeds/chiaseeds/1.webp",
+      "images": [
+        "/assets/images/products/seeds/chiaseeds/1.webp",
+        "/assets/images/products/seeds/chiaseeds/2.webp",
+        "/assets/images/products/seeds/chiaseeds/3.webp"
+      ],
+      "buylink":"",
+      "slug": "Chia_seeds"
+    },
+    {
+      "id": "2",
+      "name": " Flax Seeds",
+      "category": "Seeds",
+      "tag": [
+        "Organic","Healthy","Seeds"
+      ],
+      "shortDescription": "One of the worlds oldest crops, of two types golden and brown distinguished between ground flax seeds and whole flax seeds or due to its numerous health benefits, they obtained the name Linum usitatissimum, which means the most useful.",
+      "fullDescription":"Flaxseed is a plant-based food that provides healthful fat, antioxidants, and fiber. Some people call it a “functional food,” which means that a person can eat it to boost their health. People grew flax as a crop in ancient Egypt and China. In Asia, it has had a role in Ayurvedic medicine for thousands of years.",
+      "why":"Why consume Flax seeds?",
+      "topic1":"Loaded with Nutrients",
+      "explain1":"Flax seeds are very high in fiber and provide good amounts of protein. They are also rich in fat and heart-healthy omega-3 fatty acids. Contains adequate number of vitamins and minerals such as Thiamine, copper, Magnesium and Phosphorus.",
+      "topic2":"Rich in Omega 3 fatty acids, Vitamin B and Vitamin E",
+      "explain2":"omega 3 fatty acids helps to maintain your heart health as well as your hair health studies include that omega 3 helps in reducing scalp inflammation and vitamins provide nutrition to your hair follicles to grow stronger and healthier.",
+      "topic3":"Have great health benefit",
+      "explain3":"Supports heart health by lowering cholesterol to some extent as well as may help in lowering your blood pressure, supports digestive health due to high fiber content it may improve digestion by relieving diarrhea and constipation. They may also reduce fasting blood sugar in people with diabetes and lower your risk of several cancers.",
+      "topic4":" ",
+      "explain4":" ",
+      "precaution1":"Flax seeds may cause mild digestive issues, risk of allergy is rare.",
+      "precaution2":"Are not considered safe for high-dose consumption in early pregnancy.",
+      "rate": 4.7,
+      "price": 9.99,
+      "coverImage": "/assets/images/products/seeds/flaxseeds/1.webp",
+      "images": [
+        "/assets/images/products/seeds/flaxseeds/1.webp",
+        "/assets/images/products/seeds/flaxseeds/2.webp",
+        "/assets/images/products/seeds/flaxseeds/3.webp"
+      ],
+      "buylink":"",
+      "slug": "Flax_seeds"
+    },
+    {
+      "id": "3",
+      "name": "Pumpkin seeds",
+      "category": "Seeds",
+      "tag": [
+        "Organic","Healthy"
+      ],
+      "shortDescription": "The seeds are nutrient- and calorie-rich, with especially high content of fat (particularly linoleic acid and oleic acid), protein, dietary fiber, and numerous micronutrients.",
+      "fullDescription": "The seeds are nutrient- and calorie-rich, with especially high content of fat (particularly linoleic acid and oleic acid), protein, dietary fiber, and numerous micronutrients.",
+      "why":"Why consume Pumpkin seeds?",
+      "topic1":"Loaded with nutrients",
+      "explain1":"Rich in magnesium which helps in controlling blood sugar level, lowering blood pressure, good for heart health and bone health. It also contains zinc which helps immune system to fight from bacteria and viruses. These are loaded with vitamin k, manganese, zinc, phosphorus etc.",
+      "topic2":"Helps in Improving sleep quality",
+      "explain2":"Pumpkin seeds are a good source of tryptophan, zinc and magnesium all of which help promote good sleep.",
+      "topic3":"Have Anti-cancer propertie",
+      "explain3":"Laboratory studies show pumpkin seeds can stop the growth of breast and prostate cancer cells. They also induce apoptosis or cancer cell death.",
+      "topic4":"Have Anti-Inflammatory Properties",
+      "explain4":"Pumpkin seeds are rich in many antioxidants, which helps in reducing inflammation in our bodies. They are also a great source of dietary fiber, which can enhance this effect. Studies show that pumpkin seeds anti-inflammatory abilities can help maintain good function in the liver, bladder, bowel, and joints.",
+      "precaution1":"Not safe for people with hypoglycaemia.",
+      "precaution2":"May not be safe for pregnant or breastfeeding women as well as infants and people taking diuretic drugs.",
+      "rate": 4.3,
+      "price": 9.99,
+      "coverImage": "/assets/images/products/seeds/pumpkinseeds/1.webp",
+      "images": [
+        "/assets/images/products/seeds/pumpkinseeds/1.webp",
+        "/assets/images/products/seeds/pumpkinseeds/2.webp",
+        "/assets/images/products/seeds/pumpkinseeds/3.webp"
+      ],
+      "buylink":"",
+      "slug": "Pumpkin_seeds"
+    },
+    {
+      "id": "4",
+      "name": "Sunflower Seeds",
+      "category": "Seeds",
+      "tag": [
+        "Organic","Healthy","Seed"
+      ],
+      "shortDescription": " Sunflower seeds are more commonly eaten as a snack than as part of a meal. They can also be used as garnishes or ingredients in various recipes. The seeds may be sold as in-shell seeds or dehulled kernels. The seeds can also be sprouted and eaten in salads.",
+      "fullDescription": " For those with short-term or chronic inflammation, sunflower seeds can offer anti-inflammatory benefits. Sunflower seeds contain vitamin E, flavonoids, and other plant compounds that can reduce inflammation. A study found that consuming sunflower seeds and other seeds five times or more each week resulted in lower levels of inflammation, which also lowered risk factors for several chronic diseases.",
+      "why":"Why consume Sunflower seeds?",
+      "topic1":"Highly Nutritious",
+      "explain1":"Sunflower seeds are especially high in vitamin E and selenium. These function as antioxidants to protect your body cells against free radical damage, which plays a role in several chronic diseases.",
+      "topic2":"Reducing Inflammation",
+      "explain2":"For those with short-term or chronic inflammation, sunflower seeds can offer anti-inflammatory benefits. Sunflower seeds contain vitamin E, flavonoids, and other plant compounds that can reduce inflammation. A study found that consuming sunflower seeds and other seeds five times or more each week resulted in lower levels of inflammation, which also lowered risk factors for several chronic diseases.",
+      "topic3":"Improving Heart Health",
+      "explain3":"Sunflower seeds are rich in healthy fats, including polyunsaturated fat and monounsaturated fat. A three-fourths cup serving of sunflower seeds contains 14 grams of fat. Studies found that consumption of seeds including sunflower seeds was linked to lower rates of cardiovascular disease, high cholesterol, and high blood pressure.",
+      "topic4":" ",
+      "explain4":" ",
+      "precaution1":"Should be consumed in a recommended amount only to maintain the balance of your body.",
+      "precaution2":"For patients with diabetes should consult their doctor before consuming Sunflower supplements during breastfeeding.",
+      "rate": 4,
+      "price": 9.99,
+      "coverImage": "/assets/images/products/seeds/sunflowerseeds/1.webp",
+      "images": [
+        "/assets/images/products/seeds/sunflowerseeds/1.webp",
+        "/assets/images/products/seeds/sunflowerseeds/2.webp",
+        "/assets/images/products/seeds/sunflowerseeds/3.webp"
+      ],
+      "buylink":"",
+      "slug": "Sunflower_seeds"
+    },
+    {
+      "id": "5",
+      "name": " Rosemary Essential oils ",
+      "category": "Essential oils",
+      "tag": [
+        "Organic","Healthy"
+      ],
+      "shortDescription": "Rosemary (Rosmarinus officinalis) is an evergreen shrub with needle-like leaves and a woody aroma .Though best known as a food seasoning, it is one of the most popular aromatic and medicinal plants worldwide",
+      "fullDescription": "Rosemary is an essential Essential oils which holds the plant core components, or essence is extracted and sold in small bottles. Despite its name, it is not a true Essential oils, as it does not contain fat (1Trusted Source, 3Trusted Source). Due to rosemary Essential oils use in folk medicine, many scientists are now testing its potential health benefits (4Trusted Source).Though most of this research is just beginning, it supports some traditional uses of the Essential oils and illustrates possible new uses.Here are 14 potential benefits and uses of rosemary essential Essential oils.",
+      "why":"Why use Rosemary Essential oils?",
+      "topic1":"Improve Brain Function",
+      "explain1":"In ancient Greece and Rome, rosemary was thought to strengthen memory. Research indicates that inhaling rosemary Essential oils helps prevent the breakdown of acetylcholine, a brain chemical important for thinking, concentration, and memory. When 20 young adults were asked math questions in a small room diffused with rosemary Essential oils, their speed and accuracy increased in direct proportion to the duration the Essential oils was diffused. Additionally, their blood levels of certain rosemary compounds likewise increased illustrating that rosemary can enter your body through breathing alone. Similarly, nursing students who breathed rosemary Essential oils while taking a test reported increased concentration and information recall compared to breathing lavender Essential oils or no essential Essential oils at all. research suggests that breathing rosemary and other essential Essential oilss may improve brain function in older adults with dementia, including those with Alzheimer disease.",
+      "topic2":"Stimulates Hair Growth",
+      "explain2":"One of the most common types of hair loss is androgenetic alopecia, better known as male pattern baldness, though it can also affect females. Rosemary Essential oils treats androgenetic alopecia by preventing a byproduct of testosterone from attacking your hair follicles, which is the cause of this condition. When men with androgenetic alopecia massaged diluted rosemary Essential oils into their scalp twice daily for six months, they experienced the same increase in hair thickness as those who used minoxidil (Rogaine), a common. hair regrowth remedy. Additionally, those who used the rosemary Essential oils reported less scalp itching compared to minoxidil, which suggests that rosemary may be more tolerable. Other research indicates that rosemary Essential oils may fight patchy hair loss, or alopecia areata, which affects up to half the population below age 21 and about 20% of people above 40. When people with alopecia areata rubbed a rosemary essential Essential oils blend into their scalp each day for seven months, 44% showed improvement in their hair loss compared to only 15% in the control group, who used the neutral Essential oilss jojoba and grapeseed. ",
+      "topic3":"Help Relieve Pain",
+      "explain3":"In folk medicine, rosemary is utilized as a mild pain reliever. In a two-week study, stroke survivors with shoulder pain who received a rosemary Essential oils blend with acupressure for 20 minutes twice daily experienced a 30% reduction in pain. Those who received only acupressure had a 15% reduction in pain. Additionally, an animal study determined that rosemary Essential oils was slightly more effective for pain than acetaminophen, a common over-the-counter pain medication.",
+      "topic4":" ",
+      "explain4":" ",
+      "precaution1":"Rosemary Essential oils is possibly safe for most people. It might cause allergic reactions in some people.",
+      "precaution2":"Rosemary might make seizure disorders worse. Don't use more than amounts found in foods.",
+      "rate": 4.2,
+      "price": 9.99,
+      "coverImage": "/assets/images/products/essential-oils/rosemary/1.webp",
+      "images": [
+        "/assets/images/products/essential-oils/rosemary/1.webp",
+        "/assets/images/products/essential-oils/rosemary/2.webp",
+        "/assets/images/products/essential-oils/rosemary/3.webp"
+      ],
+      "buylink":"",
+      "slug": "Rosemary_oils"
+    },
+    {
+      "id": "6",
+      "name": "Sandalwood Essential oils",
+      "category": "Essential oils",
+      "tag": [
+        "Organic","Healthy","Essential oils"
+      ],
+      "shortDescription": "Sandalwood oil is an essential oil obtained from the steam distillation of chips and billets cut from the heartwood of various species of sandalwood trees, mainly Santalum album (Indian sandalwood). and Santalum spicatum (Australian sandalwood).Sandalwood oil is used in perfumes, cosmetics, sacred unguents, and as a mild food flavouring.",
+      "fullDescription": "Sandalwood essential oil is perhaps the most fragrant of all oils and is extensively used in beauty, health and in rituals. Sandalwood oil possesses a distinct mild earthy aroma and plays a vital role in healing various skin conditionsThis fragrant oil is super rich in naturally occurring chemical compounds called sesquiterpenes, which are highly valuable in improving health and well-being. Sandalwood oil and paste are widely used in medicines, skin and beauty products, mouth fresheners, incense sticks, deodorants, lotions, perfumes etc., The health benefits of sandalwood oil include - improving digestion, relieving the symptoms of anxiety and controlling various emotions like pleasure, power, and hunger..",
+      "why":"Why use Sandalwood Essential oils?",
+      "topic1":"Antiseptic",
+      "explain1":"Sandalwood oil works as a great antiseptic agent that is safe and effective for use both externally and internally. Applying sandalwood oil externally can treat acne, sores, boils, and pimples progressing into an infection or becoming septic.",
+      "topic2":"Lowers Blood Pressure",
+      "explain2":"The presence of a hypotensive agent in sandalwood oil helps in lowering blood pressure. Edible sandalwood oil can be taken with milk or other liquid to regulate blood pressure. It functions well to lower hypertension even when it is applied externally.",
+      "topic3":"Fortifies Dental Health",
+      "explain3":"The abundance of astringent properties in sandalwood oil is extremely beneficial in inhibiting the growth of cavity-causing bacteria in the mouth. Not only does it help in treating bleeding gums and healing minor wounds but also helps in cleansing the mouth, enhancing salivation by improving secretions in the gastrointestinal tract and strengthening the gums.",
+      "topic4":"Enhances Beauty ",
+      "explain4":"The antioxidant property of this essential oil obtained from sandalwood bark is extensively used for promoting skin health. It effectively scavenges free radicals from the skin and diminishes oxidative damage. It also flushes out the toxins from the internal layers of the skin, promotes overall skin health and treats various skin infections like acne, pimples, rashes, boils etc.",
+      "precaution1":" Don't use white sandalwood if you have kidney problems. It might make kidney disease worse.",
+      "precaution2":"White sandalwood is LIKELY SAFE when taken by mouth in food amounts. But it is possibly unsafe when taken by mouth as a medicine for longer than 6 weeks.",
+      "rate": 3.6,
+      "price": 9.99,
+      "coverImage": "/assets/images/products/essential-oils/sandalwood/1.webp",
+      "images": [
+        "/assets/images/products/essential-oils/sandalwood/1.webp",
+        "/assets/images/products/essential-oils/sandalwood/2.webp",
+        "/assets/images/products/essential-oils/sandalwood/3.webp"
+      ],
+      "buylink":"",
+      "slug": "Sandalwood_oil"
+    },
+    {
+      "id": "7",
+      "name": "Ylang Ylang essential oil",
+      "category": "Essential oils",
+      "tag": [
+        "Organic","Healthy","Essential oil"
+      ],
+      "shortDescription": "Ylang ylang has a fruity, sweet scent and is a popular ingredient in many perfumes and cosmetic products. Ylang ylang has several benefits proven by scientific research, such as alleviating anxiety and lowering blood pressure in some people. Anecdotal evidence indicates that its calming effect may also make it beneficial for relaxation and for conditions such as headaches. Ylang ylang contains several allergens and should be used cautiously on the skin.",
+      "fullDescription": "Ylang ylang oil is made from the flowers of the herb Cananga odorata genuina. People apply ylang ylang oil to the skin to promote relaxation, kill bacteria, lower blood pressure, and increase sexual desire. It is also part of a combination spray used to kill head lice. The smell of ylang ylang oil in aromatherapy is used for memory and thinking skills. In foods and beverages, ylang ylang oil is used as a flavoring. In manufacturing, it is used as a fragrance for cosmetics and soaps.",
+      "why":"Why use Ylang Ylang Essential oils?",
+      "topic1":"Improve heart health",
+      "explain1":"Study found that inhalation of ylang ylang had a sedative effect, by significantly reducing systolic and diastolic blood pressure rates as well as heart rate in healthy men..",
+      "topic2":"Reducing Candida albicans",
+      "explain2":"Ylang ylang contains linalool, a compound which has antibacterial, antifungal, and anti-inflammatory properties. It has been shownTrusted Source to be effective at reducing Candida albicans, a fungal infection.",
+      "topic3":"Reduce anxiety and boost self-esteem",
+      "explain3":"A small studyTrusted Source found that ylang ylang reduced anxiety and boosted self-esteem when it was either applied to skin or inhaled. Ylang ylang beneficial effect on mood has been duplicated in other studies, and is also substantiated via anecdotal evidence.",
+      "topic4":"Repel flying insects and kill bug larvae",
+      "explain4":"When dried, ylang ylang flowers are used to treat malaria symptoms in countries throughout Asia.",
+      "precaution1":"Ylang ylang contains several allergens, such as isoeugenolTrusted Source. It has been linkedTrusted Source to contact dermatitis and can be irritating to skin when applied topically.",
+      "precaution2":"Ylang ylang is poisonous to dogs and cats. Do not apply ylang ylang to your pet’s skin, paws, or coat, and make sure not to use it where your pet might lick or inhale it.",
+      "rate": 4.4,
+      "price": 9.99,
+      "coverImage": "/assets/images/products/essential-oils/ylangylang/1.webp",
+      "images": [
+        "/assets/images/products/essential-oils/ylangylang/1.webp",
+        "/assets/images/products/essential-oils/ylangylang/2.webp",
+        "/assets/images/products/essential-oils/ylangylang/3.webp"
+      ],
+      "buylink":"",
+      "slug": "Ylang Ylang_oil"
+    },
+    {
+      "id": "8",
+      "name": "Lemongrass Essential oils",
+      "category": "Essential oils",
+      "tag": [
+        "Organic","Healthy","Essential oils"
+      ],
+      "shortDescription": "Lemongrass is a tropical, grassy plant used in cooking and herbal medicine. Lemongrass oil can be extracted, and it has been used by healthcare providers to treat digestive problems and high blood pressure. It has many other potential health benefits, too.",
+      "fullDescription": "Lemongrass is a tropical, grassy plant used in cooking and herbal medicine. Extracted from the leaves and stalks of the lemongrass plant, lemongrass oil has a powerful, citrus scent. It’s often found in soaps and other personal care products. It is used by healthcare providers to treat digestive problems and high blood pressure. In fact, lemongrass essential oil is a popular tool in aromatherapy to help relieve stress, anxiety, and depression. Keep reading to learn more about how you can use lemongrass essential oil to improve your well-being.",
+      "why":"Why use Lemongrass Essential oils?",
+      "topic1":"Antibacterial and antifungal properties",
+      "explain1":"Lemongrass is used as a natural remedy to heal wounds and help prevent infection. Research from 2010 found that lemongrass essential oil was effective against a variety of drug-resistant bacteria, including those that cause: skin infections, pneumonia, blood infections, and severe intestinal infections. Lemongrass oil was an effective deterrent against four types of fungi. One type causes an athlete's foot, ringworm, and jock itch.",
+      "topic2":"Prevent gastric ulcers or relieve nausea",
+      "explain2":"Lemongrass is used as a folk remedy for a number of digestive problems, ranging from stomachaches to gastric ulcers. According to a 2012 study on mice, lemongrass essential oil helped prevent gastric ulcers, a common cause of stomach pain.",
+      "topic3":"Help ease diarrhea",
+      "explain3":"According to a 2006 study, lemongrass may help slow diarrhea. The study showed that the oil reduced fecal output in mice with castor oil-induced diarrhea, possibly by slowing intestinal motility.",
+      "topic4":"Repels insects",
+      "explain4":"Insects and bugs form the preliminary cause of several problems such as contaminating food and triggering food poisoning but also cause problems ranging from rashes and itching to fever and hallucinations. The anti-microbial properties in lemongrass essential oil form an absolute remedy for all types of insects (mosquitoes, head lice, fleas, etc.). When used in vaporizers, it eliminates mosquitoes, flies, and other insects.",
+      "precaution1":"People should never apply undiluted essential oil directly to the skin or take the oil orally unless under the guidance of a healthcare professional.",
+      "precaution2":"Lemongrass essential oil can cause dryness and stinging around the eyes, ears, mouth, and other mucous membranes, such as the genital area. For this reason, it is best not to use it on the face or put the oil into bathwater.May interact with certain medications.",
+      "rate": 4.0,
+      "price": 9.99,
+      "coverImage": "/assets/images/products/essential-oils/lemongrass/1.webp",
+      "images": [
+        "/assets/images/products/essential-oils/lemongrass/1.webp",
+        "/assets/images/products/essential-oils/lemongrass/2.webp",
+        "/assets/images/products/essential-oils/lemongrass/3.webp"
+      ],
+      "buylink":"",
+      "slug": "Lemongrass_oil"
+    },
+    {
+      "id": "9",
+      "name": "Wheat",
+      "category": "Flours",
+      "tag": [
+        "Organic","Healthy","Wheat"
+      ],
+      "shortDescription": "White and whole-wheat flour are key ingredients in baked goods, such as bread. Other wheat-based foods include pasta, noodles, semolina, bulgur, and couscous. Wheat is highly controversial because it contains a protein called gluten, which can trigger a harmful immune response in predisposed individuals. However, for people who tolerate it, whole-grain wheat can be a rich source of various antioxidants, vitamins, minerals, and fiber.",
+      "fullDescription": "Whole wheat is a good source of several vitamins and minerals such as Selenium, Manganese, Phosphorus, Copper, Folateect. Enriched wheat flour may be a good source of iron, thiamine, niacin, calcium, and vitamin B6, in addition to the above nutrients.Ultimately, if you enjoy breads, baked goods, and other wheat products in moderation, this ubiquitous grain can improve your health.",
+      "why":"Why consume Wheat?",
+      "topic1":"Prevention of colon cancer",
+      "explain1":"Colon cancer is the most prevalent type of digestive system cancer. Observational studies link the consumption of whole grains-including whole wheat to a reduced risk of colon cancer .One observational study estimated that people on low-fiber diets could cut their risk of colon cancer by 40% by eating more fiber.",
+      "topic2":"Aids Digestion",
+      "explain2":"The fibre present in whole wheat grain has multi-dimensional effects on our body. It is good for aiding good digestion and also helps in clearing harmful toxins from the body. The antibacterial properties of whole wheat help in the reduction of the adverse effects of digestive tracts.",
+      "topic3":"Reduction in chronic inflammation",
+      "explain3":"Whole wheat flour can help reduce inflammation, which is the cause of many chronic diseases. Adding whole wheat to your diet can not only help in the reduction of inflammation but also reduce the risk of chronic diseases such as arthritis and type 2 diabetes.",
+      "topic4":"Helps in regulation of PMS symptoms",
+      "explain4":" The fact that presence of Vitamin B in whole wheat helps in easing the PMS symptoms. The presence of  Magnesium content in the whole wheat relieves anxiety and pain caused by PMS. Studies have shed light on the positive effects of wheat germ compounds (vitamin B6 and E, Calcium & essential acids) which causes reducing in PMS symptoms.",
+      "precaution1":"Wheat consumption can cause allergic reactions in some people due to the presence of gluten proteins. It may cause baker's asthma and rhinitis. So it is advisable to consult your doctor if you experience allergic reactions after eating wheat.",
+      "precaution2":"Some people may be intolerant to Wheat due to which they might develop celiac disease. So it is advisable to consult your doctor for appropriate diet substitutions.",
+      "rate": 4.4,
+      "price": 9.99,
+      "coverImage": "/assets/images/products/flours/wheat/1.webp",
+      "images": [
+        "/assets/images/products/flours/wheat/1.webp",
+        "/assets/images/products/flours/wheat/2.webp",
+        "/assets/images/products/flours/wheat/3.webp"
+      ],
+      "buylink":"",
+      "slug": "Wheat_flour"
+    },
+    {
+      "id": "10",
+      "name": "Corn Flour",
+      "category": "Flours",
+      "tag": [
+        "Organic","Healthy"
+      ],
+      "shortDescription": "Corn flour or maize is a recipe derived from maize by grinding the kernels into finely powdered particles. It can be used for thickening for soup, cornbread or sauces. Some health benefits of cornflour include helping to lower the level of cholesterol in the blood and reducing the risk of constipation.",
+      "fullDescription": "Cornflour is a flour powder made of finely ground cornmeal. In British and Australian recipes, the word cornflour is synonymous with U.S. word cornstarch. It is used as binder, filler and thickener in pastry, cookie and meat industries.Corn flour is gluten free and a great alternative to wheat flour. It is rich in fiber, protein and antioxidants that assist in preventing diseases and also improve the quality of life. The unprocessed corn has high level of polyphenols in comparison to similar processed grains.",
+      "why":"Why consume Cornflour?",
+      "topic1":"Gluten free",
+      "explain1":"Corn flour is gluten-free and a great alternative to wheat flour. It is used for thickening gravies and makes baked goods, and tortillas without using inflammatory gluten. Inflammation is the main cause of most diseases so eliminating inflammation-causing foods from the diet assists in preventing diseases.",
+      "topic2":"Supports digestive health",
+      "explain2":"Corn comprises of cellulose, amylose, hemicellulose and lignin which are called insoluble fibers. The balances between insoluble and soluble fibers assist proper digestion. Insoluble fibers found in corn have the ability to ferment in colon and assist diverse microbiome.",
+      "topic3":"Great source of antioxidants",
+      "explain3":"Corn has high levels of antioxidants that assist to prevent diseases. An unprocessed corn has high level of polyphenols in comparison to similar processed grains. The foods rich in these compounds help to fight free radical damage caused by processed foods, exposure to toxins and sun.",
+      "topic4":"Rich in fiber ",
+      "explain4":"One cup of cornflour offers a third of regular fiber goals and also provides the essential protein required for a balanced diet. It is a good option for vegans because for them protein intake would be challenging.",
+      "precaution1":" Too much cornflour in your food can increase blood sugar levels.",
+      "precaution2":"Too much cornflour in your food can lead to heart problems.",
+      "rate": 3.5,
+      "price": 9.99,
+      "coverImage": "/assets/images/products/flours/cornflour/1.webp",
+      "images": [
+        "/assets/images/products/flours/cornflour/1.webp",
+        "/assets/images/products/flours/cornflour/2.webp",
+        "/assets/images/products/flours/cornflour/3.webp"
+      ],
+      "buylink":"",
+      "slug": "Corn_Flour"
+    },
+    {
+      "id": "11",
+      "name": "Herbal tea",
+      "category": "Beverages",
+      "tag": [
+        "Organic","Healthy","Beverages"
+      ],
+      "shortDescription": "Herbal teas, also known as herbal infusions and less commonly called tisanes, are beverages made from the infusion or decoction of herbs, spices, or other plant material in hot water.",
+      "fullDescription": "Tea is popularly known for its calming effects and has been used for centuries as the focal point of social events and unwinding after a long day. In the modern world, pressure and stress are often dealt with by taking medication, but the side effects of these medicines can be worse than the stress itself. Instead, think about using herbal tea to relax and rejuvenate. It's a safer and more natural alternative to prescription medicines and can help with stress and anxiety.",
+      "why":"Why consume Herbal tea?",
+      "topic1":"It can help soothe your mind and your body",
+      "explain1":"Teas like PEPPERMINT, CHAMOMILE, LEMON BALM, PASSION FLOWER helps in relaxing your muscles and keeping your body relaxed and your mind stress free basically away from anxiety and multiple disorders.",
+      "topic2":"It boosts your Immune system",
+      "explain2":"Just like Tulsi which contain antibacterial and antifungal properties which cures common cold or flu sooner if added in your tea , Teas like DANDELION, GINSENG, LICORICE etc also helps in boosting your immunity and preventing from chronic diseases along with the regular or common ones.",
+      "topic3":"Aids in digestion",
+      "explain3":"A cup of herbal tea after meals helps in digesting your food easily. Herbal tea is rich in spearmint that smoothens the digestive system and acts as an appetite suppressant, reducing the urge to overeat. Teas like GINGER and CHAMOMILE works wonders if you're suffering from long term digestive issues, these will definitely help you in a cheaper way.",
+      "topic4":"May help in Weight loss",
+      "explain4":"No matter how slim a person is, they would always want to lose more weight. Herbal tea rich in functional ingredients like physillium husk, fennel and lemongrass help you to burn fats and also helps in boosting metabolism. ",
+      "precaution1":"It is extremely important to inform your physician what herbal teas you consume as they can interact with certain medications.",
+      "precaution2":"Be aware of what kind of ingredients that tea have so that you should take the right one for you as there are many misleading and false claim ad complexity.",
+      "rate": 4.5,
+      "price": 9.99,
+      "coverImage": "/assets/images/products/beverages/herbaltea/1.webp",
+      "images": [
+        "/assets/images/products/beverages/herbaltea/1.webp",
+        "/assets/images/products/beverages/herbaltea/2.webp",
+        "/assets/images/products/beverages/herbaltea/3.webp"
+      ],
+      "buylink":"",
+      "slug": "Herbal_tea"
+    },
+    {
+      "id": "12",
+      "name": "Organic coffee",
+      "category": "Beverages",
+      "tag": [
+        "Organic","Healthy","Beverages"
+      ],
+      "shortDescription": "A beverage made by percolation, infusion, or decoction from the roasted and ground seeds of a coffee plant.",
+      "fullDescription": ": Organic farms also combat climate change by emitting less carbon than chemical farms, while also sequestering significant amounts of carbon. As a bonus, organic coffee beans are richer in healthful antioxidants, and many people can even taste the difference. Your health, and the health of the planet, both get a boost.",
+      "why":"Why consume Organic coffee?",
+      "topic1":"Free of pesticides",
+      "explain1":"Organic coffee is grown using traditional methods. So, almost no pesticides are allowed. Most of the industrial coffee types are heavily treated with pesticides because it increases the yield. However, organic coffee is grown with health in mind.",
+      "topic2":"Taste factor",
+      "explain2":"Delicious coffee is a direct result of the soil it's grown in. Planting organic coffee trees in soil rich in natural chemical-free soils ensures you taste nothing but pure coffee.",
+      "topic3":"Sustainability",
+      "explain3":"Organic coffee is always just a bit more expensive than the regular one. But, it also means you are doing your part in preserving our planet. Moreover, you are helping coffee farmers living a decent life as they don't use pesticides in their coffee so it means you helped keep our planet clean, and that's a small price to pay.",
+      "topic4":"A healthier choice for Everyone",
+      "explain4":"Everyone who is involved in the coffee cycle. It is healthier for the farmers, as they don't have to breathe in the chemicals or drink them from the river. Healthier for the roasters, as they don't get in touch with pesticides while roasting. And in the end, healthier for the end buyer. Drinking organic coffee means you will be consuming the best, 100% natural beans diluted in water. Nothing more.",
+      "precaution1":"Consuming large amounts of green coffee might cause caffeine-related side effects, including headache, anxiety, agitation, and irregular heartbeat.",
+      "precaution2":" ",
+      "rate": 4.4,
+      "price": 9.99,
+      "coverImage": "/assets/images/products/beverages/organiccoffee/1.webp",
+      "images": [
+        "/assets/images/products/beverages/organiccoffee/1.webp",
+        "/assets/images/products/beverages/organiccoffee/2.webp",
+        "/assets/images/products/beverages/organiccoffee/3.webp"
+      ],
+      "buylink":"",
+      "slug": "Organic_coffee"
+    }
+  ],
+  "blog": [
+    {
+      "id": "u1",
+      "category": "Organic health",
+      "tag": [
+        "Organic",
+        "Natural",
+        "Facts",
+        "Health"
+      ],
+      "title": "13 Surprising Facts You Didn’t Know About Organic Food",
+      "slug": "13_surprising_organic_products_facts",
+      "shortDescription": "Traditional farming is still dominating the food industry, and it causes a lot of damage to the environment and soil.Let's take a look at the facts and solutions",
+      "blogtitle1":"Organic Food is Not Always Healthy",
+      "para1":"The term ‘organic’ is often connected with the word ‘healthy’, but it is not always true. For example, organic cookies and candy bars are still unhealthy because they contain high amounts of sugar and fat. When the label says ‘organic food’, it means that the food was produced in a sustainable way and doesn’t include any harmful chemicals. It doesn’t mean that the food is nutritious. Plus, even if you buy organic meat, it can still be loaded with saturated fats. Some people also argue that organic food is overpriced and that the only difference is that it contains fewer additives.",
+      "blogtitle2":"Organic Food is Better for the Environment",
+      "para2":"Organic farming uses pesticide-free methods that don’t harm the environment, wildlife, or humans. Conventional farming is often blamed for increasing greenhouse gas emissions, using 80% of the world’s water supply, and destroying habitats of wildlife. Pesticides in conventional farming can pollute lakes, rivers, and groundwater.",
+      "blogtitle3":"Organic Food Costs More Than Conventional Produce",
+      "para3":"Although many people think that organic food is produced only in the U.S., this is not true. There are countries around the world that produce organic products, including Argentina, Canada, Chile, China, France, Germany, Hungary, India, Italy, Japan, Russia, Spain, Switzerland, South Africa, and Turkey.",
+      "blogtitle4":"It is Better for Your Health",
+      "para4":"The risk of cancer and other chronic diseases is lower when you consume organic food. A study showed that consumers who ate non-organic food had a 62% higher chance of developing cancer than people who ate organic food. Sulforaphane, a chemical that is abundant in organic broccoli was shown to improve the survival rate of breast cancer patients. Another study found out that eating organic food reduces the risk of Parkinson’s, Alzheimer’s, and chronic obstructive pulmonary disease (COPD). Organic tomatoes were found to be more nutritious than conventionally grown ones, so they can help reduce the symptoms of asthma.",
+      "publicDate": "2021-05-14",
+      "coverImage": "/assets/images/blog/blog-detail/1.webp",
+      "author": {
+        "name": "Violet Holt"
+      }
+    },
+    {
+      "id": "u2",
+      "category": "Recipes",
+      "tag": [
+        "Organic",
+        "Natural",
+        "Cauliflower Hot Wings"
+      ],
+      "title": "Healthy super bowl recipes cauliflower hot wings",
+      "slug": "healthy_super_bowl_recipes_cauliflower_hot_wings",
+      "shortDescription": "Let's create something healty and tasty dish at home. Cauliflower hot wings why not you try it out.",
+      "blogtitle1":"Are Cauliflower Wings Healthier for You?",
+      "para1":"These aren't just delicious, they are nutritious: Chickpea flour (also known as gram flour or besan) is abundant in fiber, vitamins, and minerals, just like garbanzo beans themselves. The flour contains folate, manganese, copper, magnesium, phosphorus, and potassium, as well as antioxidants and protein.",
+      "blogtitle2":"Ingredients",
+      "para2":"1 head cauliflower, cut into bite sized florets, 1 cup garbanzo bean flour, 1 cup water, 1 teaspoon garlic powder, ¼ teaspoon paprika, ¼ teaspoon onion powder, ½ teaspoon salt, ¼ teaspoon black pepper, 1 teaspoon ghee, melted, ½ cup Buffalo style hot sauce",
+      "blogtitle3":"Cauliflower a Nutritional Power House",
+      "para3":"In addition to the breading, the star ingredient of this recipe is a true nutritional powerhouse: Cauliflower (along with cabbage, kale, Brussels sprouts, broccoli, and bok choy, by the way) are members of the ultra-healthy group of cruciferous veggies. Crucifers are a rich source of phytonutrients, specifically, glucosinolates1, which, according to Frontiers in Pharmacology, are thought to be anti-inflammatory and protective against certain diseases including cancer.",
+      "blogtitle4":"Preparation",
+      "para4":"Preheat the oven to 450 degrees Fahrenheit, and line a baking sheet with parchment paper.\\n In a medium bowl combine the garbanzo flour, spices, salt, pepper, and water. Whisk until smooth and creamy, with no lumps remaining.\n Add the cauliflower florets to the batter mixture, and coat each piece completely.'\n' Place the coated cauliflower florets in an even layer on on a parchment paper-lined baking sheet.'\\n' Roast for 15 minutes, stirring halfway through.'\\n' While the cauliflower roasts, mix together the melted ghee and hot sauce.'\\n' Remove the cauliflower from the oven, and drizzle with the hot sauce mixture. Gently stir the cauliflower to coat in the hot sauce.'\\n' Return to the oven and bake for an additional 20-25 minutes, or until the cauliflower becomes crispy.'\\n' Remove from the oven and serve!",
+      "publicDate": "2022-02-10",
+      "coverImage": "/assets/images/blog/blog-detail/2.webp",
+      "author": {
+        "name": "Kate Gavlick"
+      }
+    },{
+      "id": "u3",
+      "category": "Why Organic",
+      "tag": [
+        "Why-Organic",
+        "Nature",
+        "India",
+        "Health"
+      ],
+      "title": "Why Organic? Here’s What You Need to Know about This New Trend in Indian Cuisine",
+      "slug": "Why_organic_products_is_this_new_trend_in_India",
+      "shortDescription": "Most people have heard of it at least once while going through health and fitness pages on their favorite health sites, but have you ever thought of it as an integral part of your life?",
+      "blogtitle1":"The Indian Food Industry",
+      "para1":"India has always been an agriculturally-dependent country. There was a time when farms and crop businesses were the heartbeat of the economy and, though they’re undoubtedly still important, we’re talking about a time when there was HIGH demand and low production. From this arose the concept of GM crops that enabled farmers to increase the production of their crops while taking a shorter amount of time of doing so. From here, a booming era of chemical and pesticide usage began that can still be seen in today’s market Thankfully, Indian consumers today aren’t under the same pressure of food shortages as before, meaning that most of us can now choose food based on quality and safety, i.e. organic food.",
+      "blogtitle2":"A Wave of Organic Food in India",
+      "para2":"Uncontrolled utilization of chemicals and synthetic composts that brings out low-quality nourishment has pushed millennials to find a safer and healthier way of eating that’s also sustainable. This has led to a flourishing organic sector with increasing demand that’s expected to keep going strong in the years to come. Proving this trend, you can always find an organic version of every conventional food item you’re used to eating. From pulses to spices and cooked organic meals, there’s an organic twin of everything.",
+      "blogtitle3":"Organic Certifications in India",
+      "para3":"Although it’s not easy to get certified by the Indian government and pass international standards for cultivating organic food, there are many producers who have. As you look for organic food, keep in mind that you can get various organic food certifications including the United States Department of Agriculture (USDA), Food Safety and Standards Authority of India (FSSAI), Agricultural & Processed Food Products Export Development Authority (APEDA) authorized bodies, EU organic standard, and more. The more certifications, the better the chances of the food being 100% organic.",
+      "blogtitle4":"Looking Toward the Future",
+      "para4":"The spending capacity of the Indian middle class is expected to increase with time, meaning that they will have a higher spending capacity for organic food. With consumer shifts in interests from regular to healthy and organic products, brands and producers are putting their focus on delivering what their consumers want. The organic trend is only set to accelerate and grow in the future, making it a crucial sector. For instance, as per an EY Report on the Indian Organic Market from March 2018, the current Indian domestic market is estimated at Rs 40,000 MN and is likely to increase by Rs 100,00 MN to Rs 120,000 MN by the year 2020.",
+      "publicDate": "2021-09-04",
+      "coverImage": "/assets/images/blog/blog-detail/3.webp",
+      "author": {
+        "name": "Shraddha Thakur"
+      }
+    },
+    {
+      "id": "u4",
+      "category": "Healthy cooking",
+      "tag": [
+        "Healthy",
+        "Cooking",
+        "Kitchen"
+      ],
+      "title": "Top 10 Healthy Cooking Habits One Must Follow",
+      "slug": "Top_10_Healthy_Cooking_Habits_One_Must_Follow",
+      "shortDescription": "Most people have heard of it at least once while going through health and fitness pages on their favorite health sites, but have you ever thought of it as an integral part of your life?",
+      "blogtitle1":"Importance of Healthy Cooking Habits",
+      "para1":"Eating healthy does not end up with knowing and choosing the healthier ingredients but also with the process used for cooking. Healthy cooking methods result in retaining important nutrients and vitamins in your meal. The right approach while cooking can help to prepare meals healthier and tastier.",
+      "blogtitle2":"Plan Meals Ahead",
+      "para2":"Healthy cooking and eating begin right from buying groceries to planning meals. Making a plan will help in minimizing the chances of buying unhealthy proceed food and beverages while grocery shopping. It’s always a nice idea to write down the shopping list that compromises of the detailed menu for a week or month. With a plan, we can also save a lot of time that is usually spent on deciding what to cook. All the mothers here would surely relate to this. Right? It also ensures that you’re eating a variety of seasonal fresh produce. This way you can have more control over what you eat and definitely cut down on frequent grocery visits.",
+      "blogtitle3":"Don’t Overcook",
+      "para3":"Overcooking has a direct impact on lowering the nutritional quality of the food. Prolonged cooking results in loss of essential nutrients in the food. Foods that are highly water-soluble, especially dark green leafy veggies should not be cooked for a longer period to retain their nutritional value. That’s why it is always recommended to avoid deep frying and baking because it simply destroys the goodness present in the food item.",
+      "blogtitle4":"Avoid Harmful Utensils",
+      "para4":"If you want to keep the nutrition of your food, selecting the right utensil is a necessity. You will be surprised to know that some utensils can be dangerous because of the toxic elements that they are made up of. At OMKITCHEN, we use microwave-safe glass containers that help to keep the food safe & its freshness intact for the tiffin. We also prepare our food in cast iron or stainless steel to ensure maximum safety.",
+      "publicDate": "2022-06-09",
+      "coverImage": "/assets/images/blog/blog-detail/4.webp",
+      "author": {
+        "name": "Rashi Chaudhary"
+      }
+    }
+  ],
+  "users": {
+    "email": "admin@gmail.com",
+    "password": "avitex"
+  },
+  "cart": [],
+  "wishlist": []
+}

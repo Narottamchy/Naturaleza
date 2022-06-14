@@ -1,0 +1,22 @@
+{
+  "statistical": [
+    {
+      "number": 100,
+      "suffixes": "%",
+      "object": "Pure Intensions",
+      "icon": "/assets/images/pages/contact/ic-1.webp"
+    },
+    {
+      "number": 32,
+      "suffixes": "+",
+      "object": "Supporters",
+      "icon": "/assets/images/pages/contact/ic-2.webp"
+    },
+    {
+      "number": 10,
+      "suffixes": "+",
+      "object": "Products",
+      "icon": "/assets/images/pages/contact/ic-3.webp"
+    }
+  ]
+}

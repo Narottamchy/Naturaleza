@@ -1,0 +1,26 @@
+{
+  "one": [
+    {
+      "background":"/assets/images/hero-slider/one/bg-1.webp",
+      "animate":"/assets/images/hero-slider/one/1.webp",
+      "subTitle": "Did You Know",
+      "title": "Organic Grown Crops Have Lower Levels Of Nitrate"
+    },
+    {
+      "background": "/assets/images/hero-slider/one/bg-2.webp",
+      "animate":"/assets/images/hero-slider/one/2.webp",
+      "subTitle": "Did You Know",
+      "title": "Risk Of Cancer Is Lower When You Consume Organic Food"
+    }
+  ],
+  "four": [
+    {
+      "image": "/assets/images/hero-slider/four/1.webp",
+      "background": "/assets/images/hero-slider/four/bg-1.webp"
+    },
+    {
+      "image": "/assets/images/hero-slider/four/1.webp",
+      "background": "/assets/images/hero-slider/four/bg-2.webp"
+    }
+  ]
+}
