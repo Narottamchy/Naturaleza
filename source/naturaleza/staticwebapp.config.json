@@ -6,7 +6,7 @@
 }
   "responseOverrides": {
         "404": {
-          "rewrite": "/pages/error.js"
+          "rewrite": "/pages/_error.js"
         }
     }
 }
