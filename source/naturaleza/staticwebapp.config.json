@@ -1,12 +1,12 @@
 {
   
 "navigationFallback":{
-  "rewrite":"/index.html",
+  "rewrite":"/pages/index.js",
   "exclude":["*.{css,scss,js,png,gif,webp,ico,jpg,svg}"]
 }
   "responseOverrides": {
         "404": {
-          "rewrite": "/src/pages/error.js"
+          "rewrite": "/pages/error.js"
         }
     }
 }
