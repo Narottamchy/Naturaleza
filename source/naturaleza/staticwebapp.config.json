@@ -1,7 +1,7 @@
 {
   
 "navigationFallback":{
-  "rewrite":"/pages/index.js",
+  "rewrite":"/pages/app.js",
   "exclude":["*.{css,scss,js,png,gif,webp,ico,jpg,svg}"]
 }
   "responseOverrides": {
