@@ -1,0 +1,12 @@
+{
+  
+"navigationFallback":{
+  "rewrite":"/index.html",
+  "exclude":["*.{css,scss,js,png,gif,webp,ico,jpg,svg}"]
+}
+  "responseOverrides": {
+        "404": {
+          "rewrite": "/src/pages/error.js"
+        }
+    }
+}
