@@ -3,7 +3,7 @@
 "navigationFallback":{
   "rewrite":"/pages/app.js",
   "exclude":["*.{css,scss,js,png,gif,webp,ico,jpg,svg}"]
-}
+},
   "responseOverrides": {
         "404": {
           "rewrite": "/pages/_error.js"
