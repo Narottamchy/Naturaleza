@@ -11,7 +11,7 @@ const data = [
   },
   {
     name: "Tisha Thakral",
-    job: "Reseach head",
+    job: "Research head",
     image: "/assets/images/sections/introduction/six/2.webp",
   },
   {
