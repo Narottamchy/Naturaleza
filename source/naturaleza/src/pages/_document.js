@@ -10,7 +10,7 @@ class MyDocument extends Document {
         <Head>
           <meta
             name="title"
-            content="Naturaleza - Multipurpose Organic Store & Bakery React Templates"
+            content="Naturaleza"
           />
           <link rel="icon" href="/assets/fav.ico" />
           <link
